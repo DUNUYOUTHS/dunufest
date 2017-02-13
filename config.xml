@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="org.dunukofiacarnival.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.dunukofiacarnival.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     
     <name>Dunu Fest</name>
     <description>Culture</description>
-    <author email="dunufest@" href="http://www.dunukofiacarnival.org">Joselink</author>
+    <author email="dunufest@" href="http://www.dunukofiacarnival.com">Joselink</author>
 
     <preference name="phonegap-version" value="3.3.0" />
     <feature name="http://api.phonegap.com/1.0/device" />
